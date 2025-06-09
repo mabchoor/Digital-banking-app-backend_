@@ -1,0 +1,14 @@
+[33m2c24446[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m new repo commit: Digital Banking Backend
+[33m4e76b26[m commit all in new repo
+[33mce8d221[m Initial commit with starter project
+[33m5db702c[m add manual status transitioning logic
+[33md7f05cd[m fix relation integrity issue upon deleting customer
+[33ma0536c9[m add customers/:id/accounts endpoint
+[33m195b15b[m cors config
+[33m30ae68c[m REST controllers for Customer and BankAccount
+[33ma0a7faa[m Implement Service Layer
+[33m7e82529[m Add DTOs, custom Exceptions, and Mapper service
+[33med2c66a[m DAO testing and data seeding
+[33m9a29d88[m  Create Spring Data JPA repositories
+[33mb8a31b5[m Setup project structure and define JPA entities
+[33m22a7488[m init repo
